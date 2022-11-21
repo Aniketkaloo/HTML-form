@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBPAGE</title>
+    <font color="black" size="5">    
+        <marquee><b><i>WELCOME TO OUR NEW WEBPAGE</i></b></marquee>    
+    </font>  
+
+    <body background=
+    "https://www.amcorpindia.com/wp-content/uploads/light-website-backgrounds-light-color-background-images-light-color-background-images-for-website-1024x640.jpg">
+        <br/>  
+</head>
+<body>
+    
+    <table border="0" width="100%" cellspacing="0" bgcolor="grey">
+        <tr><td>
+        <table border="0" width="85%" align="center" cellpadding="15">
+        <tr>
+        <td> <font face="Open Sans" size="5" color="black"> <b> REGISTRATION FORM  </b></font></td>
+        
+        
+        <td width="20%"></td>
+        <h1 class="site-header__title">
+            <div class="logo"> <a href="#home" data-scroll=""><img src="https://tse3.mm.bing.net/th?id=OIP.s1t2K9kM8IXCOR6_jGz26wHaHa&pid=Api&P=0" width="10%"></a></div>
+           </h1>
+<td> <a href="#"> <font color="#fff">Home </font> </a></td>
+<td> <a href="#"><font color="#fff">Services </font></a></td>
+<td> <a href="#"><font color="#fff">Skills </font></a></td>
+<td> <a href="#"><font color="#fff">Team </font> </a></td>
+<td> <a href="#"><font color="#fff">Contact Us </font> </a></td>
+
+
+
+</tr>
+</table>
+</td></tr>
+</table>
+<p><b><i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis nisi, sit praesentium ex, eligendi rerum quibusdam explicabo ut provident cupiditate pariatur blanditiis dignissimos accusamus odio. Nisi molestias esse totam quibusdam?</i></b></p>
+
+<div class="container">
+    <h1>Fill the form</h1>
+    <form name="registration" class="registartion-form" onsubmit="return formValidation()">
+      <table>
+        <tr>
+          <td><label for="name"><b>Name:</b></label></td>
+          <td><input type="text" name="name" id="name" placeholder="your name"></td>
+        </tr>
+        <tr>
+          <td><label for="email"><b>Email:</b></label></td>
+          <td><input type="text" name="email" id="email" placeholder="your email"></td>
+        </tr>
+        <tr>
+          <td><label for="password"><b>Password:</b></label></td>
+          <td><input type="password" name="password" id="password"  placeholder="password"></td>
+        </tr>
+        <tr>
+          <td><label for="phoneNumber"><b>Phone Number:</b></label></td>
+          <td><input type="number" name="phoneNumber" id="phoneNumber" placeholder="phone number"></td>
+        </tr>
+        <tr>
+          <td><label for="gender"><b>Gender:</b></label></td>
+          <td><b>Male:</b> <input type="radio" name="gender" value="male">
+          <b> Female: </b><input type="radio" name="gender" value="female">
+           <b> Other:</b> <input type="radio" name="gender" value="other"></td>
+        </tr>
+        <tr>
+          <td><label for="language"><b>language</b></label></td>
+          <td>
+            <select name="language" id="language">
+              <option value=""><b>Select language</b></option>
+              <option value="English"><b>English</b></option>
+              <option value="Spanish"><b>Spanish</b></option>
+              <option value="Hindi"><b>Hindi</b></option>
+              <option value="Arabic"><b>Arabic</b></option>
+              <option value="Russian"><b>Russian</b></option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td><label for="about"><b>About:</b></label></td>
+          <td><textarea name="about" id="about" placeholder="Write about yourself..."></textarea></td>
+        </tr>
+        <tr>
+          <td colspan="2"><input type="submit"  class="submit" value="Register" /></td>
+        </tr>
+      </table>
+    </form>
+  </div>  
+  <footer>
+    <table width="100%">
+        <tr><td>
+        
+        <table border="0" width="85%" align="center" cellpadding="15">
+        <tr align="center">
+        <td>
+        <img src="https://tse4.mm.bing.net/th?id=OIP.M5H3saqNuypBM11MyjG3swHaHa&pid=Api&P=0" width="10%"> <br>
+        <font size="0" >Phone No.</font> <br>
+        <font size="3">999999999.</font>
+        </td>
+        
+        <td>
+        <img src="https://tse3.mm.bing.net/th?id=OIP.qm0Em-MbUgcmkEblQ-k-swHaHa&pid=Api&P=0" width="10%"> <br>
+        <font size="0" >Email us</font> <br>
+        <font size="3" >ccxbxbzmb@gmail.com</font>
+        
+        </td>
+        
+        <td>
+        <img src="https://tse3.mm.bing.net/th?id=OIP.EbBzpQ7hElK-gpgFCz31vwHaHa&pid=Api&P=0" width="10%"> <br>
+        <font size="0" >Location</font> <br>
+        <font size="3" >Delhi</font>
+        
+        </td>
+        </tr>
+        
+        <tr bgcolor="black" align="center"> 
+        <td colspan="3"> <font color="#fff"> copyright @ 2022 | xyz </font></td>
+        </tr>
+        </table>
+        
+        </td></tr>
+        </table>
+        </footer>
+</body>
+</html>
+
+
+
+
+
+
+
